@@ -8,7 +8,7 @@ This is my study of textmining using with python and jupyter tools.
 <br>
 윤태일-이수만 저자의 파이썬으로 텍스트 분석하기 도서를 참고하였습니다.
 
-### 챕터 소개
+## 챕터 소개
 #### chapter 00
 파이썬 기초문법을 작성하였습니다.
 #### chapter 01
