@@ -1,6 +1,6 @@
 # Textmining
 
-# 개요
+## 개요
 This is my study of textmining using with python and jupyter tools.
 
 ## 참고 도서
